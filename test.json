@@ -1,0 +1,34 @@
+{"ads":{
+  
+  "ShowAds":true,
+  "ClickCount":1,
+   "ShowLoadingAds":true,
+  "Redirect_link":"https://www.google.com",
+  "BannerLink":"kdkdk",
+  "BannerButtonText":"install",
+
+
+  
+
+  
+  "openadyandex":"R-M-8780810-5",
+  "yandex_inter":"R-M-8780810-3",
+  "yandex_banner":"R-M-8780810-1",
+  "yandex_native":"R-M-8780810-2",
+  
+  
+  "MaxBanner": "2947d48185c67d04",
+  "MaxNative": "848b3ebb10650356",
+  "MaxInterstitial": "4200badf6166cacc",
+  "Maxopen":"2947d48185c67d04",
+  
+  "PriorityBanner":"max",
+  "PriorityNative":"max",
+  "PriorityOpen":"max",
+  "priorityInterstitial":"max"
+ 
+
+  
+}
+
+}

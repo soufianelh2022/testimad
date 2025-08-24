@@ -22,7 +22,7 @@
   "MaxInterstitial": "4200badf6166cacc",
   "Maxopen":"2947d48185c67d04",
   
-  "PriorityBanner":"max",
+  "PriorityBanner":"custom",
   "PriorityNative":"max",
   "PriorityOpen":"max",
   "priorityInterstitial":"max"

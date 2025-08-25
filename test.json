@@ -4,7 +4,8 @@
   "ClickCount":1,
    "ShowLoadingAds":true,
   "Redirect_link":"https://www.google.com",
-  "BannerLink":"https://raw.githubusercontent.com/soufianelh2022/testimad/refs/heads/main/imagetest.webp",
+  "BannerLink":"https://www.google.com",
+   "BannerImageLink":"https://raw.githubusercontent.com/soufianelh2022/testimad/refs/heads/main/imagetest.webp",
   "BannerButtonText":"install",
 
 
